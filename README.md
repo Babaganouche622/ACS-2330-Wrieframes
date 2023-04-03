@@ -14,8 +14,12 @@ Outline:
 
 - SFPOPOS
 	- Home
-		- Page Title: SFPOPOS
-		- Subtitle: San Francisco Privately Owned Public Open Spaces
+    - Header
+		  - Page Title: SFPOPOS
+		  - Subtitle: San Francisco Privately Owned Public Open Spaces
+      - Nav
+        - Navlink: Home
+        - Navlink: Events
 		- Search bar
 		- Filter categories
 		- List of all the SFPOPOS sites
@@ -25,12 +29,16 @@ Outline:
 			- Icons for each amenity offered
 			- Navlink: Site Details
 
-  - Nav
-    - Navlink: Home
-    - Navlink: Events
+
 
 
 - SFPOPOS site details
+  - Header
+    - Page Title: SFPOPOS
+    - Subtitle: San Francisco Privately Owned Public Open Spaces
+    - Nav
+      - Navlink: Home
+      - Navlink: Events
 	- Name
 	- Description
 	- Hours of operation
@@ -41,6 +49,14 @@ Outline:
 		- Navlink: Event Details
 
 - Events
+  - Header
+    - Page Title: SFPOPOS
+    - Subtitle: San Francisco Privately Owned Public Open Spaces
+    - Nav
+      - Navlink: Home
+      - Navlink: Events
+  - Search bar
+  - Filter categories
 	- List of all events in the City
 		- Name
 		- Location
@@ -48,6 +64,12 @@ Outline:
 		- Navlink: Event details
 
 - Event details
+  - Header
+    - Page Title: SFPOPOS
+    - Subtitle: San Francisco Privately Owned Public Open Spaces
+    - Nav
+      - Navlink: Home
+      - Navlink: Events
 	- Name
 	- Description
 	- Location
