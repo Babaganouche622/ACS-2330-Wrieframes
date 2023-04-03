@@ -25,8 +25,8 @@ Outline:
 			- Icons for each amenity offered
 			- Navlink: Site Details
 
-	- Nav
-		- Navlink: Home
+  - Nav
+    - Navlink: Home
     - Navlink: Events
 
 
