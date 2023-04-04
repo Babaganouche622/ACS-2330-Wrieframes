@@ -80,6 +80,8 @@ Outline:
 
 ## Wireframes
 
+https://www.figma.com/file/DGkpMB9vJyDLvxFEEW0W4c/SFPOPOS-Wireframe?node-id=0%3A1&t=IOIdlG6jGIvHFpbH-1
+
 ### Homepage
 
 ![Image of the homepage both on desktop and mobile](images/Homepage.png)
